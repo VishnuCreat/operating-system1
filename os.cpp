@@ -18,7 +18,7 @@ printf("NAME :- Vishnukant Tripathi \n");
  printf("REG. NO. :- 11714434\n");
  printf("SUBJECT :- OPERATING SYSTEM\n"); 
 printf("COURSE CODE :- CSE-316\n");
- printf(" ALLOTED BY :- xyz\n");
+ printf(" ALLOTED BY :- Amandeep kaur\n");
 
 
 int out_p; 
